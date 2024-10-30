@@ -1,0 +1,120 @@
+
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spicy Chicken Stir Fry",
+        "recipe_image": "https://i.ibb.co.com/DVvZMY4/download.jpg",
+        "short_description": "A fiery stir-fry that's quick and easy to make.",
+        "ingredients": [
+            "55 g chicken breast",
+            "120 mk soy souce",
+            "200 g basil leaves",
+            "400 g mushrooms",
+            "2 cloves garlic, minced",
+            "1 red bell pepper, sliced",
+            "1 green bell pepper, sliced",
+            "1 onion, sliced"
+        ],
+        "preparing_time":30,
+        "calories": 320
+
+    },
+
+    {
+        "recipe_id": 2,
+        "recipe_name": "Creamy Mushroom Risotto",
+        "recipe_image": "https://i.ibb.co.com/GWwdmNY/download-1.jpg",
+        "short_description": "A rich and indulgent risotto earthy mushrooms.",
+        "ingredients": [
+            "300 g risotto rice",
+            "1 litre vegetable stock",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "200 g mushrooms",
+            "1 tbsp olive oil",
+            "1 tbsp butter",
+            "50 g parmesan cheese"
+        ],
+        "preparing_time": 45,
+        "calories": 450
+
+    },
+
+    {
+        "recipe_id": 3,
+        "recipe_name": "Classic Margherita Pizza",
+        "recipe_image": "https://i.ibb.co.com/TPZKqwf/Margherita-Pizza.jpg",
+        "short_description": "A simple and delicious pizza with tomato, mozzarella and basil.",
+        "ingredients": [
+            "1 pizza base",
+            "200 g tomato passata",
+            "200 g mozzarella cheese",
+            "1 handful fresh basil leaves",
+            "1 tbsp olive oil",
+            "1 clove garlic, minced",
+            "1 tsp sugar"
+        ],
+        "preparing_time": 25,
+        "calories": 250
+
+    },
+
+    {
+        "recipe_id": 4,
+        "recipe_name": "Frsh Summer Salad",
+        "recipe_image": "https://i.ibb.co.com/w6kdMmn/download-2.jpg",
+        "short_description": "A juicy and refreshing salad with a zesty dressing.",
+        "ingredients": [
+            "1 cucumber, sliced",
+            "1 red onion, sliced",
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "1 handful cherry tomatoes",
+            "1 handful fresh parsley",
+            "1 handful fresh mint",
+            "1 lemon, juiced"
+        ],
+        "preparing_time": 15,
+        "calories": 150
+    },
+
+    {
+        "recipe_id": 5,
+        "recipe_name": "Home-made Vagitables Soup",
+        "recipe_image": "https://i.ibb.co.com/8s89Q0K/spagetti.png",
+        "short_description": "A hearty and comforting soup packed with fresh vegetables.",
+        "ingredients": [
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 carrot, chopped",
+            "1 celery stick, chopped",
+            "1 potato, chopped",
+            "1 litre vegetable stock",
+            "1 handful fresh parsley",
+            "1 handful fresh thyme"
+        ],
+        "preparing_time": 40,
+        "calories": 200
+    },
+
+    {
+        "recipe_id": 6,
+        "recipe_name": "Decadent Chocolate Brownies",
+        "recipe_image": "https://i.ibb.co.com/HKQG7q0/caesar.png",
+        "short_description": "A creamy and indulgent pasta dish with crispy pancetta.",
+        "ingredients": [
+            "200 g spaghetti",
+            "100 g pancetta",
+            "2 eggs",
+            "50 g parmesan cheese",
+            "1 clove garlic, minced",
+            "1 tbsp olive oil",
+            "1 handful fresh parsley",
+            "1 handful fresh basil leaves"
+        ],
+        "preparing_time": 20,
+        "calories": 350
+    }
+
+
+]
